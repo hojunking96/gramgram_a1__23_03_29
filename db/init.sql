@@ -1,5 +1,5 @@
-DROP DATABSE IF EXSISTS gram__dev;
-CREATE DATABSE EXSISTS gram__dev;
+DROP DATABASE IF EXSISTS gram__dev;
+CREATE DATABASE gram__dev;
 USE gram__dev;
 
 
